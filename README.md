@@ -7,8 +7,6 @@
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Citation](#citation)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 ## Usage
