@@ -1,6 +1,6 @@
-# IPP_IRLIDS
+# IRIS
 
-**IPP_IRLIDS** employs an off-policy Deep Reinforcement Learning (DRL) framework, effectively circumventing the limitations observed in on-policy approaches and enhancing learning adaptability and efficiency.
+**IRIS** employs an off-policy Deep Reinforcement Learning (DRL) framework, effectively circumventing the limitations observed in on-policy approaches and enhancing learning adaptability and efficiency.
 
 ## Table of Contents
 
@@ -34,8 +34,8 @@ This project is based on the work presented in the following reference:
 
 ```
 @InProceedings{IPP_IRLIDS,
-  title     = {IPP_IRLIDS: An Information Path PlanningMethod Based on Reinforcement Learning andInformation Directed Sampling},
-  author    = {Cao, Yuhong and Wang, Yizhuo and Vashisth, Apoorva and Fan, Haolin and Sartoretti, Guillaume},
+  title     = {IRIS: An Information Path Planning Method Based on Reinforcement Learning and Information-Directed Sampling},
+  author    = {Ziyuan Liu and Yan Zhuang and Peng Wu and Yuanchang Liu},
   booktitle = {6th Annual Conference on Robot Learning},
   year      = {2022}
 }
