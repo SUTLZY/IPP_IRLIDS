@@ -38,8 +38,7 @@ This project is based on the work presented in the following reference:
 @InProceedings{IPP_IRLIDS,
   title     = {IRIS: An Information Path Planning Method Based on Reinforcement Learning and Information-Directed Sampling},
   author    = {Ziyuan Liu and Yan Zhuang and Peng Wu and Yuanchang Liu},
-  booktitle = {6th Annual Conference on Robot Learning},
-  year      = {2022}
+  year      = {2024}
 }
 ```
 
