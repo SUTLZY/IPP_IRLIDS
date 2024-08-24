@@ -2,6 +2,8 @@
 
 **IRIS** employs an off-policy Deep Reinforcement Learning (DRL) framework, effectively circumventing the limitations observed in on-policy approaches and enhancing learning adaptability and efficiency.
 
+**Status:** This project is part of ongoing research. The related paper is currently under submission.
+
 ## Table of Contents
 
 - [Usage](#usage)
